@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import Pagination from "./common/pagination";
-
 import {paginate} from "../utils/paginate";
+import Post from "./posts"
 import PostsTable from "./postsTable";
 import _ from 'lodash';
 
